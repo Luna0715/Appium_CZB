@@ -1,0 +1,183 @@
+2020-03-11 22:46:06,729 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-11 22:46:06,757 get_driver.py[line:30] INFO start app...
+2020-03-11 22:46:27,746 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-11 22:46:28,593 first_page_view.py[line:23] INFO phone_login success!
+2020-03-11 22:46:28,593 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-11 22:57:32,346 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-11 22:57:32,386 get_driver.py[line:30] INFO start app...
+2020-03-11 22:57:52,853 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-11 22:57:53,565 first_page_view.py[line:23] INFO phone_login success!
+2020-03-11 22:57:53,565 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 09:32:36,924 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 09:32:37,014 get_driver.py[line:30] INFO start app...
+2020-03-12 09:33:10,603 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 09:33:12,773 first_page_view.py[line:20] ERROR phone_login Fail!
+2020-03-12 09:33:12,773 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 09:41:06,633 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 09:41:06,666 get_driver.py[line:30] INFO start app...
+2020-03-12 09:41:32,718 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 09:41:39,257 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 09:42:44,661 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 09:42:44,746 get_driver.py[line:30] INFO start app...
+2020-03-12 09:43:05,664 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 09:43:12,019 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 09:43:57,174 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 09:43:57,223 get_driver.py[line:30] INFO start app...
+2020-03-12 09:44:29,777 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 09:44:29,805 get_driver.py[line:30] INFO start app...
+2020-03-12 09:44:48,730 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 09:44:50,503 first_page_view.py[line:24] INFO phone_login success!
+2020-03-12 09:44:50,503 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 11:16:38,138 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 11:17:04,627 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 11:17:27,017 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 11:17:27,044 get_driver.py[line:30] INFO start app...
+2020-03-12 11:17:48,085 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 11:17:54,652 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 11:19:18,407 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 11:19:18,441 get_driver.py[line:30] INFO start app...
+2020-03-12 11:19:37,914 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 11:19:39,802 first_page_view.py[line:24] INFO phone_login success!
+2020-03-12 11:19:39,802 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 11:20:34,978 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 11:20:35,003 get_driver.py[line:30] INFO start app...
+2020-03-12 11:20:53,561 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 11:20:55,982 first_page_view.py[line:24] INFO phone_login success!
+2020-03-12 11:20:55,982 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 11:22:28,897 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 11:22:28,927 get_driver.py[line:30] INFO start app...
+2020-03-12 11:22:47,108 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 11:22:49,282 first_page_view.py[line:24] INFO phone_login success!
+2020-03-12 11:22:49,283 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 11:23:12,452 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 11:23:12,476 get_driver.py[line:30] INFO start app...
+2020-03-12 11:23:33,007 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 11:23:34,152 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 14:52:45,989 run.py[line:22] INFO start run test case...
+2020-03-12 14:52:45,990 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 14:52:46,030 get_driver.py[line:30] INFO start app...
+2020-03-12 14:53:07,975 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 14:53:15,366 first_page_view.py[line:20] ERROR phone_login Fail!
+2020-03-12 14:53:15,417 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 14:56:55,449 run.py[line:22] INFO start run test case...
+2020-03-12 14:56:55,451 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 14:56:55,481 get_driver.py[line:30] INFO start app...
+2020-03-12 14:57:14,329 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 14:57:16,127 first_page_view.py[line:24] INFO phone_login success!
+2020-03-12 14:57:16,128 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 14:58:32,010 run.py[line:22] INFO start run test case...
+2020-03-12 14:58:32,011 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 14:58:32,040 get_driver.py[line:30] INFO start app...
+2020-03-12 14:58:50,682 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 14:58:52,524 first_page_view.py[line:24] INFO phone_login success!
+2020-03-12 14:58:52,525 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:00:12,450 run.py[line:22] INFO start run test case...
+2020-03-12 15:00:12,451 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:00:12,478 get_driver.py[line:30] INFO start app...
+2020-03-12 15:00:30,259 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:00:37,633 first_page_view.py[line:20] ERROR phone_login Fail!
+2020-03-12 15:00:37,633 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:03:30,164 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:03:30,199 get_driver.py[line:30] INFO start app...
+2020-03-12 15:03:46,972 run.py[line:22] INFO start run test case...
+2020-03-12 15:03:46,973 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:03:46,990 get_driver.py[line:30] INFO start app...
+2020-03-12 15:04:06,135 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:04:07,910 first_page_view.py[line:24] INFO phone_login success!
+2020-03-12 15:04:07,910 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:07:04,692 run.py[line:22] INFO start run test case...
+2020-03-12 15:07:04,693 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:07:04,721 get_driver.py[line:30] INFO start app...
+2020-03-12 15:07:22,433 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:07:24,563 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:10:20,087 run.py[line:22] INFO start run test case...
+2020-03-12 15:10:20,088 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:10:20,119 get_driver.py[line:30] INFO start app...
+2020-03-12 15:10:39,297 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:10:41,920 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:12:22,588 run.py[line:22] INFO start run test case...
+2020-03-12 15:12:22,589 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:12:22,618 get_driver.py[line:30] INFO start app...
+2020-03-12 15:12:42,326 first_page_view.py[line:13] INFO perform click_phone_login
+2020-03-12 15:12:44,013 first_page_view.py[line:23] INFO phone_login success!
+2020-03-12 15:12:44,014 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:13:44,837 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:13:44,880 get_driver.py[line:30] INFO start app...
+2020-03-12 15:14:04,222 first_page_view.py[line:13] INFO perform click_phone_login
+2020-03-12 15:14:06,320 first_page_view.py[line:19] ERROR phone_login Fail!
+2020-03-12 15:14:06,321 base_view.py[line:69] INFO get phone_login fail screenshot
+2020-03-12 15:14:06,731 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:15:14,728 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:15:14,763 get_driver.py[line:30] INFO start app...
+2020-03-12 15:15:34,795 first_page_view.py[line:13] INFO perform click_phone_login
+2020-03-12 15:15:36,079 first_page_view.py[line:19] ERROR phone_login Fail!
+2020-03-12 15:15:36,080 base_view.py[line:69] INFO get phone_login fail screenshot
+2020-03-12 15:15:36,481 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:17:28,091 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:17:28,115 get_driver.py[line:30] INFO start app...
+2020-03-12 15:17:47,594 first_page_view.py[line:13] INFO perform click_phone_login
+2020-03-12 15:17:50,118 first_page_view.py[line:23] INFO phone_login success!
+2020-03-12 15:17:50,119 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:18:08,936 run.py[line:22] INFO start run test case...
+2020-03-12 15:18:08,936 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:18:08,966 get_driver.py[line:30] INFO start app...
+2020-03-12 15:18:29,439 first_page_view.py[line:13] INFO perform click_phone_login
+2020-03-12 15:18:31,882 first_page_view.py[line:19] ERROR phone_login Fail!
+2020-03-12 15:18:31,882 base_view.py[line:69] INFO get phone_login fail screenshot
+2020-03-12 15:18:32,232 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:20:08,665 run.py[line:22] INFO start run test case...
+2020-03-12 15:20:08,666 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:20:08,694 get_driver.py[line:30] INFO start app...
+2020-03-12 15:20:27,981 first_page_view.py[line:13] INFO perform click_phone_login
+2020-03-12 15:20:29,328 first_page_view.py[line:23] INFO phone_login success!
+2020-03-12 15:20:29,328 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:22:07,503 run.py[line:22] INFO start run test case...
+2020-03-12 15:22:07,504 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:22:07,530 get_driver.py[line:30] INFO start app...
+2020-03-12 15:22:26,728 first_page_view.py[line:13] INFO perform click_phone_login
+2020-03-12 15:22:33,226 first_page_view.py[line:19] ERROR phone_login Fail!
+2020-03-12 15:22:33,227 base_view.py[line:69] INFO get phone_login fail screenshot
+2020-03-12 15:22:33,586 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:32:36,937 run.py[line:22] INFO start run test case...
+2020-03-12 15:32:36,937 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:32:36,968 get_driver.py[line:30] INFO start app...
+2020-03-12 15:32:57,474 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:32:57,475 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:34:08,106 run.py[line:22] INFO start run test case...
+2020-03-12 15:34:08,107 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:34:08,155 get_driver.py[line:30] INFO start app...
+2020-03-12 15:34:27,536 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:34:31,970 first_page_view.py[line:22] ERROR phone_login Fail!
+2020-03-12 15:34:31,971 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:36:05,694 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:36:05,725 get_driver.py[line:30] INFO start app...
+2020-03-12 15:36:26,198 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:36:29,196 first_page_view.py[line:22] ERROR phone_login Fail!
+2020-03-12 15:36:29,196 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:39:17,578 run.py[line:22] INFO start run test case...
+2020-03-12 15:39:17,579 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:39:17,611 get_driver.py[line:30] INFO start app...
+2020-03-12 15:39:36,781 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:39:40,019 first_page_view.py[line:18] INFO phone_login success!
+2020-03-12 15:39:40,021 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:46:13,168 run.py[line:22] INFO start run test case...
+2020-03-12 15:46:13,169 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:46:13,198 get_driver.py[line:30] INFO start app...
+2020-03-12 15:46:31,836 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:46:34,783 first_page_view.py[line:18] INFO phone_login success!
+2020-03-12 15:46:34,784 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-12 15:49:51,821 run.py[line:22] INFO start run test case...
+2020-03-12 15:49:51,822 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-12 15:49:51,850 get_driver.py[line:30] INFO start app...
+2020-03-12 15:50:11,180 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-12 15:50:13,616 first_page_view.py[line:18] INFO phone_login success!
+2020-03-12 15:50:13,617 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-13 14:57:13,435 run.py[line:23] INFO start run test case...
+2020-03-13 14:57:13,435 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-13 14:57:13,493 get_driver.py[line:30] INFO start app...
+2020-03-13 14:57:34,178 first_page_view.py[line:14] INFO perform click_phone_login
+2020-03-13 14:57:36,677 first_page_view.py[line:18] INFO phone_login success!
+2020-03-13 14:57:36,677 czb_unittest.py[line:19] INFO =====tearDown=====
+2020-03-13 14:59:26,895 run.py[line:23] INFO start run test case...
+2020-03-13 14:59:26,896 czb_unittest.py[line:15] INFO =====setUp=====
+2020-03-13 14:59:26,920 get_driver.py[line:30] INFO start app...

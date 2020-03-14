@@ -1,0 +1,19 @@
+SplashPage:
+  KnownButton:
+    find_type: id
+    element_info: com.czb.chezhubang:id/tv_center
+FirstPage:
+  PhoneLoginButton:
+    find_type: id
+    element_info: com.czb.chezhubang:id/phoneLogin
+    operate_type: on_click
+LoginPage:
+  SendCodeButton:
+    find_type: id
+    element_info: com.czb.chezhubang:id/sendMsgBtn
+    operate_type: on_click
+PhoneLoginPage:
+    OneKeyLoginButton:
+      find_type: xpath
+      element_info: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.RelativeLayout[2]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout
+      operate_type: on_click

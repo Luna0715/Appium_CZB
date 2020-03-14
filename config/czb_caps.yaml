@@ -1,0 +1,9 @@
+Url: http://127.0.0.1:4723/wd/hub
+Android:
+  platformName: Android
+  appName: app-debug_jiagu_signed.apk
+  noReset: False
+  unicodeKeyboard: True
+  resetKeyboard: True
+  appPackage: com.czb.chezhubang
+  appActivity: .activity.MainActivity

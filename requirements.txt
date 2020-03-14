@@ -1,0 +1,5 @@
+HTMLTestRunner
+PyMySQL
+Appium-Python-Client
+selenium
+PyYAML
